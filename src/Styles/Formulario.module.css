@@ -1,0 +1,51 @@
+.formSection {
+    margin-bottom: 1.5rem;
+}
+
+.formSectionTitle {
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.formLabel {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.formInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1rem;
+    border: 2px solid #002EFF;
+    border-radius: 10px;
+}
+
+.formSelect {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1rem;
+    border: 2px solid #002EFF;
+    border-radius: 10px;
+    background-color: white;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.formButton {
+    padding: 15px 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: #002EFF;
+    
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.formButton:hover {
+    background-color: #203ec6;
+    
+}
